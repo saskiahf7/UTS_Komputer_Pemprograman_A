@@ -2,7 +2,7 @@
 ### Anggota kelompok:
 1. Saskia hafizha (G1A025033)
 2. Daifullah Haffizh Farrash (G1A026041)
-3. Ivander Dwi Prasetyo (G1A025073)
+3. Ivander Dwi Prasetyo (G1A025073) (kurang berpartisipasi dalam membuat project)
    
    ---
    ## Overview sistem
